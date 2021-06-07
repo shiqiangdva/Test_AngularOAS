@@ -28,6 +28,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/shiqiangdva/Test_AngularOAS" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1tc6cPMcDSUQPg5U466u6GyupPi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623056108921</updated>
-      <workItem from="1623056110031" duration="993000" />
+      <workItem from="1623056110031" duration="1025000" />
     </task>
     <servers />
   </component>
@@ -66,9 +73,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="302" key="Vcs.Push.Dialog.v2" timestamp="1623056225545">
+    <state x="533" y="302" key="Vcs.Push.Dialog.v2" timestamp="1623058454799">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="533" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1623056225545" />
+    <state x="533" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1623058454799" />
   </component>
 </project>
